@@ -1,0 +1,42 @@
+{
+  "name": "Nodejs_Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js",
+    "client": "npm start cd ../React_frontend/crick-app",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fridgerator/pynode": "^0.5.0",
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^5.2.0",
+    "connect-flash": "^0.1.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "csv-parser": "^2.3.3",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^8.2.0",
+    "execa": "^4.0.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "fast-csv": "^4.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.21",
+    "neat-csv": "^5.2.0",
+    "node-addon-api": "^3.0.2",
+    "nodemailer": "^6.4.17",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "nodemon": "^2.0.4",
+    "pandas-js": "^0.2.4",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "python-shell": "^2.0.2"
+  }
+}

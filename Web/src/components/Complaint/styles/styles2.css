@@ -1,0 +1,232 @@
+html{
+    font-size: 10px;
+}
+body{
+    background-color: #ffedfb;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Crect stroke='%23ffedfb' stroke-width='0.21' width='1' height='1' id='s'/%3E%3Cpattern id='a' width='3' height='3' patternUnits='userSpaceOnUse' patternTransform='rotate(66 1000 750) scale(10) translate(-900 -675)'%3E%3Cuse fill='%23fae8f6' href='%23s' y='2'/%3E%3Cuse fill='%23fae8f6' href='%23s' x='1' y='2'/%3E%3Cuse fill='%23f5e4f1' href='%23s' x='2' y='2'/%3E%3Cuse fill='%23f5e4f1' href='%23s'/%3E%3Cuse fill='%23f0dfec' href='%23s' x='2'/%3E%3Cuse fill='%23f0dfec' href='%23s' x='1' y='1'/%3E%3C/pattern%3E%3Cpattern id='b' width='7' height='11' patternUnits='userSpaceOnUse' patternTransform='rotate(66 1000 750) scale(10) translate(-900 -675)'%3E%3Cg fill='%23ebdae7'%3E%3Cuse href='%23s'/%3E%3Cuse href='%23s' y='5' /%3E%3Cuse href='%23s' x='1' y='10'/%3E%3Cuse href='%23s' x='2' y='1'/%3E%3Cuse href='%23s' x='2' y='4'/%3E%3Cuse href='%23s' x='3' y='8'/%3E%3Cuse href='%23s' x='4' y='3'/%3E%3Cuse href='%23s' x='4' y='7'/%3E%3Cuse href='%23s' x='5' y='2'/%3E%3Cuse href='%23s' x='5' y='6'/%3E%3Cuse href='%23s' x='6' y='9'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='h' width='5' height='13' patternUnits='userSpaceOnUse' patternTransform='rotate(66 1000 750) scale(10) translate(-900 -675)'%3E%3Cg fill='%23ebdae7'%3E%3Cuse href='%23s' y='5'/%3E%3Cuse href='%23s' y='8'/%3E%3Cuse href='%23s' x='1' y='1'/%3E%3Cuse href='%23s' x='1' y='9'/%3E%3Cuse href='%23s' x='1' y='12'/%3E%3Cuse href='%23s' x='2'/%3E%3Cuse href='%23s' x='2' y='4'/%3E%3Cuse href='%23s' x='3' y='2'/%3E%3Cuse href='%23s' x='3' y='6'/%3E%3Cuse href='%23s' x='3' y='11'/%3E%3Cuse href='%23s' x='4' y='3'/%3E%3Cuse href='%23s' x='4' y='7'/%3E%3Cuse href='%23s' x='4' y='10'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='c' width='17' height='13' patternUnits='userSpaceOnUse' patternTransform='rotate(66 1000 750) scale(10) translate(-900 -675)'%3E%3Cg fill='%23e5d5e2'%3E%3Cuse href='%23s' y='11'/%3E%3Cuse href='%23s' x='2' y='9'/%3E%3Cuse href='%23s' x='5' y='12'/%3E%3Cuse href='%23s' x='9' y='4'/%3E%3Cuse href='%23s' x='12' y='1'/%3E%3Cuse href='%23s' x='16' y='6'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='d' width='19' height='17' patternUnits='userSpaceOnUse' patternTransform='rotate(66 1000 750) scale(10) translate(-900 -675)'%3E%3Cg fill='%23ffedfb'%3E%3Cuse href='%23s' y='9'/%3E%3Cuse href='%23s' x='16' y='5'/%3E%3Cuse href='%23s' x='14' y='2'/%3E%3Cuse href='%23s' x='11' y='11'/%3E%3Cuse href='%23s' x='6' y='14'/%3E%3C/g%3E%3Cg fill='%23e0d1dd'%3E%3Cuse href='%23s' x='3' y='13'/%3E%3Cuse href='%23s' x='9' y='7'/%3E%3Cuse href='%23s' x='13' y='10'/%3E%3Cuse href='%23s' x='15' y='4'/%3E%3Cuse href='%23s' x='18' y='1'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='e' width='47' height='53' patternUnits='userSpaceOnUse' patternTransform='rotate(66 1000 750) scale(10) translate(-900 -675)'%3E%3Cg fill='%23F60'%3E%3Cuse href='%23s' x='2' y='5'/%3E%3Cuse href='%23s' x='16' y='38'/%3E%3Cuse href='%23s' x='46' y='42'/%3E%3Cuse href='%23s' x='29' y='20'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='f' width='59' height='71' patternUnits='userSpaceOnUse' patternTransform='rotate(66 1000 750) scale(10) translate(-900 -675)'%3E%3Cg fill='%23F60'%3E%3Cuse href='%23s' x='33' y='13'/%3E%3Cuse href='%23s' x='27' y='54'/%3E%3Cuse href='%23s' x='55' y='55'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='g' width='139' height='97' patternUnits='userSpaceOnUse' patternTransform='rotate(66 1000 750) scale(10) translate(-900 -675)'%3E%3Cg fill='%23F60'%3E%3Cuse href='%23s' x='11' y='8'/%3E%3Cuse href='%23s' x='51' y='13'/%3E%3Cuse href='%23s' x='17' y='73'/%3E%3Cuse href='%23s' x='99' y='57'/%3E%3C/g%3E%3C/pattern%3E%3C/defs%3E%3Crect fill='url(%23a)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23b)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23h)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23c)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23d)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23e)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23f)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23g)' width='100%25' height='100%25'/%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+#chat-container{
+    display: grid;
+    grid: 
+        'search-container chat-title' 71px
+        'conversation-list chat-message-list' 1fr
+        'new-message-container chat-form' 78px
+        / 275px 1fr;
+    min-width: 800px;
+    max-width: 1000px;
+    max-height: 800px;
+    width: 100%;
+    height:95vh;
+    margin-top: 10px;
+    margin-left: 50px;
+    position:fixed;
+    background:#FFF;
+    border-radius: 10px;
+}
+
+#search-container,
+#conversation-list,
+#new-message-container{
+    background:#0048AA;
+}
+#search-container{
+    display: grid;
+    align-items: center;
+    padding: 0 20px;
+    grid-area: search-container;
+    border-radius: 10px 0 0 0;
+    box-shadow: 0 1px 3px -1px rgba(0,0,0,0.75);
+    z-index: 1;
+}
+
+#search-container input{
+    color: #eee;
+    outline: none;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 30px;
+    border: 0;
+    padding-left: 40px;
+    padding-right: 20px;
+    font-size: 1.4rem;
+    background: url(./search.svg) no-repeat rgba( 255,255,255,0.3);
+    background-position: 15px center;
+    background-size:20px 20px;
+}
+#search-container input::placeholder{
+    color: #ddd;
+    font-weight: bold;
+}
+
+
+#conversation-list{
+    grid-area: conversation-list;
+    overflow-y: scroll;
+}
+.conversation{
+    display: grid;
+    grid-template-columns: 40px 1fr max-content;
+    grid-gap: 10px;
+    color: #ddd;
+    font-size: 1.3rem;
+    border-bottom: 1px solid #002c88;
+    padding:20px 20px 20px 15px;
+}
+.conversation.active,
+.conversation:hover{
+    background:#002c88;
+}
+.conversation.hover{
+    cursor: pointer;
+}
+.conversation #img{
+    grid-row: span 2;
+    height: 40px;
+    border-radius: 100%;
+}
+.title-text{
+    font-weight: bold;
+    color: #eee;
+    padding-left: 5px;
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+}
+.created-date{
+    color: #ddd;
+    font-size: 1rem;
+}
+
+.conversation-message{
+
+    grid-column:span 2;
+    padding-left: 5px;
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    
+}
+
+
+#new-message-container{
+    display: grid;
+    grid:40px/40px;
+    align-content: center;
+    grid-area:new-message-container;
+    border-top: 1px solid rgba(0,0,0,0.25);
+    border-radius:0 0 0 10px;
+    padding: 0 15px;
+}
+#new-message-container a{
+    display: grid;
+    place-content: center center;
+    background:#eee;
+    border-radius: 100%;
+    color:#002C88;
+    text-decoration: none;
+    font-size: 3.6rem;
+}
+
+#chat-title,
+#chat-form{
+    background:#eee;
+}
+
+
+#chat-title{
+    display: grid;
+    grid: 36px / 1fr 36px;
+    align-content: center;
+    align-items: center;
+    grid-area: chat-title;
+    color: #0048AA;
+    font-weight: bold;
+    font-size: 2.0rem;
+    border-radius:0 10px 0 0;
+    box-shadow: 0 1px 3px -1px rgba(0,0,0,0.75);
+    padding: 0 20px;
+}
+#chat-title > img{
+    cursor : pointer;
+
+}
+
+#chat-message-list{
+    grid-area: chat-message-list;
+    display: flex;
+    flex-direction: column-reverse;
+    padding:0 20px;
+    overflow-y: scroll;  
+}
+.message-row{
+
+    display: grid;
+    grid-template-columns: 70%;
+    margin-bottom: 20px;
+}
+.message-content{
+    display: grid;
+}
+
+.you-message{
+    justify-content: end;
+    justify-items: end;
+
+}
+.other-message{
+    justify-items: start;
+}
+.message-text{
+    padding:9px 14px;
+    font-size: 1.6rem;
+    margin-bottom: 5px;
+}
+.message-time{
+    font-size:1.3rem;
+    color:#777
+}
+.you-message .message-text{
+    background:#0048AA;
+    color:#eee;
+    border: 1px solid #0048AA;
+    border-radius: 14px 14px 0 14px;
+}
+.other-message .message-text{
+    background:#eee;
+    color:#111;
+    border: 1px solid #ddd;
+    border-radius: 14px 14px 14px 0;
+}
+
+
+
+#chat-form{
+    
+    display: grid;
+    grid:51px/32px 1fr;
+    align-items: center;
+    align-content: center;
+    grid-gap:15px;
+    grid-area: chat-form;
+    border-radius: 0 0 10px 0;
+    border-top:1px solid rgba(0,0,0,0.25);
+    padding-left: 42px;
+    padding-right: 22px;
+
+}
+
+#chat-form input{
+    outline: none;
+    padding:15px;
+    border:2px solid #ddd;
+    color: #330;
+    border-radius: 6px;
+    font-size: 1.4rem;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}

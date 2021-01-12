@@ -1,0 +1,22 @@
+.table-header button{
+    border: 0;
+    border-radius: none;
+    outline: none;
+    color:#fff;
+    background:#343a40;
+    font-size: small;
+
+}
+.table-header button.ascending::after {
+    content: '👇';
+    display: inline-block;
+    margin-left: 1em;
+  }
+  
+.table-header button.descending::after {
+    content: '☝️';
+    display: inline-block;
+    margin-left: 1em;
+  }
+
+

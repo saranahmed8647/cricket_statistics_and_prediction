@@ -1,0 +1,1076 @@
+[
+  {
+    "Name": "George Bailey",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  
+  
+  {
+    "Name": "Joseph Burns",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Alex Carey",
+    "Country": "Australia",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Hilton Cartwright",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Daniel Christian",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  
+  
+  {
+    "Name": "Ben Cutting",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "James Faulkner",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Callum Ferguson",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Aaron Finch",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Peter Handscomb",
+    "Country": "Australia",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "John Hastings",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Travis Head",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Moises Henriques",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Usman Khawaja",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Marnus Labuschagne",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Chris Lynn",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Nathan Lyon",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mitchell Marsh",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Shaun Marsh",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Glenn Maxwell",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Joe Mennie",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Michael Neser",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Tim Paine",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Jhye Richardson",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Kane Richardson",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "D'Arcy Short",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Steve Smith",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Billy Stanlake",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mitchell Starc",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Marcus Stoinis",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Ashton Turner",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Matthew Wade",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "David Warner",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Cameron White",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  
+  
+  {
+    "Name": "Abu Hider",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Abu Jayed",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Abul Hasan",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Afif Hossain",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Anamul Haque",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Ariful Haque",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Fazle Mahmud",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Imrul Kayes",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Liton Das",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mahmudullah",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Mashrafe Mortaza",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mehidy Hasan",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mohammad Mithun",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mohammad Saifuddin",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mominul Haque",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mosaddeck Hossain",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mushfiqur Rahim",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mustafizur Rahman",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Najmul Hossain Shanto",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Nasir Hossain",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Nazmul Islam",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Nurul Hasan",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Sabbir Rahman",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Shafiul Islam",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Shakib Al Hasan",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Soumya Sarkar",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Tamim Iqbal",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Taskin Ahmed",
+    "Country": "Bangladesh",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Jofra Archer",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Jonny Bairstow",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Gary Ballance",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Tom Banton",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Sam Billings",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Jos Butler",
+    "Country": "England",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Sam Curran",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Tom Curran",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Joe Denly",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Alexander Hales",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Ed Joyce",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Eoin Morgan",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Boyd Rankin",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Joe Root",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Jason Roy",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Ben Stokes",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "James Vince",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "David Willey",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Chris Woakes",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mark Wood",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mayank Agarwal",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Khaleel Ahmed",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Ravichandran Ashwin",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Yuzvendra Chahal",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Shikhar Dhawan",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Shreyas Iyer",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Ravindra Jadeja",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Kedar Jadhav",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Dinesh Karthik",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Virat Kohli",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Kuldeep Yadav",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Dhawal Kulkarni",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  
+  
+  
+  {
+    "Name": "Manish Pandey",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Hardik Pandya",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Rishabh Pant",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Axar Patel",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Parthiv Patel",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Ajinkya Rahane",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Cheteshwar Pujara",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "KL Rahul",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Ambati Rayudu",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Wriddhiman Saha",
+    "Country": "India",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Navdeep Saini",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Vijay Shankar",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  
+  {
+    "Name": "Rohit Sharma",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Barinder Sran",
+    "Country": "India",
+    "Wicketkeeper": "no"
+  },
+  
+  
+  {
+    "Name": "Corey Anderson",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Todd Astle",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+
+
+ 
+  {
+    "Name": "Neil Broom",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Dean Brownlie",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mark Chapman",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Colin de Grandhomme",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Anton Devcich",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Martin Guptill",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Tom Latham",
+    "Country": "New Zealand",
+    "Wicketkeeper": "yes"
+  },
+
+  {
+    "Name": "Colin Munro",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "James Neesham",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Henry Nicholls",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Luke Ronchi",
+    "Country": "New Zealand",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Mitchell Santner",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+
+
+  {
+    "Name": "Ross Taylor",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "B J Watling",
+    "Country": "New Zealand",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Kane Williamson",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "George Worker",
+    "Country": "New Zealand",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Ahmed Shehzad",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Asad Shafiq",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Asif Ali",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Azhar Ali",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Babar Azam",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Faheem Ashraf",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Fakhar Zaman",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Haris Sohail",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Hasan Ali",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Imad Wasim",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Imam-ul-Haq",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mohammad Hafeez",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mohammad Nawaz",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Mohammad Rizwan",
+    "Country": "Pakistan",
+    "Wicketkeeper": "yes"
+  },
+
+  {
+    "Name": "Sarfaraz Ahmed",
+    "Country": "Pakistan",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Shadab Khan",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Sharjeel Khan",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Umar Akmal",
+    "Country": "Pakistan",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Umar Amin",
+    "Country": "Pakistan",
+    "Wicketkeeper": "no"
+  },
+
+
+
+  {
+    "Name": "Farhaan Behardien",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Quinton de Kock",
+    "Country": "South Africa",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Faf du Plessis",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Jean-Paul Duminy",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Reeza Hendricks",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Heinrich Klaasen",
+    "Country": "South Africa",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Aiden Markram",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "David Miller",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Chris Morris",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Willem Mulder",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+
+
+  {
+    "Name": "Vernon Philander",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Dwaine Pretorius",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Rilee Rossouw",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Rassie van der Dussen",
+    "Country": "South Africa",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Dinesh Chandimal",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Akila Dananjaya",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Dhananjaya de Silva",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Niroshan Dickwella",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "yes"
+  },
+
+  {
+    "Name": "Avishka Fernando",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Asela Gunaratne",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Danushka Gunathilaka",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Shehan Jayasuriya",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Chamara Kapugedera",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Dimuth Karunaratne",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+
+
+  {
+    "Name": "Farveez Maharoof",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Angelo Mathews",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Kusal Mendis",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Jeevan Mendis",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Sachith Pathirana",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Dilruwan Perera",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Kusal Perera",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Thisara Perera",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Seekkuge Prasanna",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Ashan Priyanjan",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+
+
+  {
+    "Name": "Dasun Shanaka",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Milinda Siriwardana",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Upul Tharanga",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Lahiru Thirimanne",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  },
+
+
+  {
+    "Name": "Fabian Allen",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Carlos Brathwaite",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Darren Bravo",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Kraigg Brathwaite",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Jonathan Carter",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Johnson Charles",
+    "Country": "West Indies",
+    "Wicketkeeper": "yes"
+  },
+
+  {
+    "Name": "Andre Fletcher",
+    "Country": "West Indies",
+    "Wicketkeeper": "yes"
+  },
+
+  {
+    "Name": "Jason Holder",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Shai Hope",
+    "Country": "West Indies",
+    "Wicketkeeper": "yes"
+  },
+  {
+    "Name": "Evin Lewis",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Xavier Marshall",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Sunil Narine",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+
+  {
+    "Name": "Kieron Pollard",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Kieran Powell",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Denesh Ramdin",
+    "Country": "West Indies",
+    "Wicketkeeper": "yes"
+  },
+
+  {
+    "Name": "Andre Russell",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Marlon Samuels",
+    "Country": "West Indies",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Cameron Green",
+    "Country": "Australia",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Moeen Ali",
+    "Country": "England",
+    "Wicketkeeper": "no"
+  },
+  {
+    "Name": "Wanindu Hasaranga",
+    "Country": "Sri Lanka",
+    "Wicketkeeper": "no"
+  }
+]
